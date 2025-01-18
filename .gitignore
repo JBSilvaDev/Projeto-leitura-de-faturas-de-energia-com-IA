@@ -129,7 +129,7 @@ celerybeat.pid
 
 # Arquivos PDF
 *.pdf
-sr
+-/-/*.pdf
 
 # Environments
 .env
