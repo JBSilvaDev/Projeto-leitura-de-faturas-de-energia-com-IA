@@ -127,9 +127,6 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
-# Arquivos PDF
-*.pdf
-
 # Environments
 .env
 .venv
@@ -175,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Arquivos
+*.pdf
+*.docx
